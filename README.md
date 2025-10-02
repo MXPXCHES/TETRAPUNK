@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TETRA PUNK
 
-## Getting Started
+Somos **Tetra Punk Company**, una empresa independiente dedicada al **reciclaje** y al **dumpster diving**, con operaciones en Santiago, Chile.
 
-First, run the development server:
+Este repo corresponde a nuestro **centro de operaciones virtual**. Está inspirado en Restaurant City y en videojuegos del género tycoon.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+👉 Visítanos en: https://tetrapunk.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funcionalidades ✨
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Vista isométrica del centro de operaciones.
+- ERP minimalista, especializada para la industria del reciclaje.
+- Monitoreo de la economía del reciclaje.
+- Recopilación de noticias y eventos relevantes (en Santiago, Chile).
+- Apoyo de la IA para la toma de decisiones.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack ⚙️
 
-## Learn More
+- **Framework**: NextJS 15 + React.
+- **Game Engine**: Phaser.
+- **Database**: Supabase.
+- **AI**: Gemini.
 
-To learn more about Next.js, take a look at the following resources:
+## Contribuir 🤝
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Este proyecto es abierto. Si quieres sumarte, aportar ideas o código, eres más que bienvenid@.
