@@ -1,4 +1,4 @@
-# TETRA PUNK
+# TETRAPUNK
 
 Somos **Tetra Punk Company**, una empresa independiente dedicada al **reciclaje** y al **dumpster diving**, con operaciones en Santiago, Chile.
 
@@ -14,7 +14,7 @@ Este repo corresponde a nuestro **centro de operaciones virtual**. Está inspira
 - Recopilación de noticias y eventos relevantes (en Santiago, Chile).
 - Apoyo de la IA para la toma de decisiones.
 
-## Tech Stack ⚙️
+## Tecnologías ⚙️
 
 - **Framework**: NextJS 15 + React.
 - **Game Engine**: Phaser.
