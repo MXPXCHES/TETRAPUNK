@@ -19,8 +19,8 @@ Este repositorio corresponde a nuestro portal web: un centro de operaciones virt
 
 ## Tecnologías
 
-- **Framework**: NextJS 15 + React.
-- **Game Engine**: Phaser 3.9.
+- **Web Framework**: NextJS 15 + React.
+- **Game Framework**: Phaser 3.9.
 - **Database / Backend**: Supabase (PostgreSQL, Auth, Realtime, Storage).
 - **AI**: Gemini Pro 2.5.
 
