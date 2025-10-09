@@ -27,5 +27,5 @@ Este repositorio corresponde a nuestro portal web: un centro de operaciones virt
 ## Misión 🎯
 
 - Gamificar la vida de un reciclador base chileno.
-- Incentivar a la gente a contribuir en la construcción de un mapa de la basura de Santiago, Chile.
+- Incentivar a la gente a contribuir en la construcción de un mapa de la basura de Santiago (MAP-H 3000).
 - Hacer el mundo un lugar más limpio y sustentable.
