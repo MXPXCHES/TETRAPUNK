@@ -8,7 +8,7 @@ Este repositorio corresponde a nuestro portal web: un centro de operaciones virt
 
 👉 Visita nuestra web en: https://tetrapunk.vercel.app.
 
-## Componentes ✨
+## Componentes
 
 - Vista isométrica del centro de operaciones.
 - ERP minimalista, especializada para la industria del reciclaje.
@@ -17,14 +17,14 @@ Este repositorio corresponde a nuestro portal web: un centro de operaciones virt
 - Herramienta de mapeo de rutas.
 - Apoyo de la IA para la toma de decisiones.
 
-## Tecnologías 🤖
+## Tecnologías
 
 - **Framework**: NextJS 15 + React.
 - **Game Engine**: Phaser 3.9.
 - **Database / Backend**: Supabase (PostgreSQL, Auth, Realtime, Storage).
 - **AI**: Gemini Pro 2.5.
 
-## Misión 🎯
+## Misión
 
 - Gamificar la vida de un reciclador base chileno.
 - Incentivar a la gente a contribuir en la construcción de un mapa de la basura de Santiago (MAP-H 3000).
