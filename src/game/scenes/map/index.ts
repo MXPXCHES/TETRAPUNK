@@ -15,25 +15,25 @@ export class Map extends Scene {
   }
 
   create() {
-    var map = this.add.tilemap("map");
+    let map = this.add.tilemap("map");
 
     console.log(map);
 
-    var tileset1 = map.addTilesetImage("iso-64x64-outside", "tiles");
-    var tileset2 = map.addTilesetImage("iso-64x64-building", "tiles2");
+    let tileset1 = map.addTilesetImage("iso-64x64-outside", "tiles");
+    let tileset2 = map.addTilesetImage("iso-64x64-building", "tiles2");
 
-    var layer1 = map.createLayer("Tile Layer 1", [tileset1, tileset2]);
-    var layer2 = map.createLayer("Tile Layer 2", [tileset1, tileset2]);
-    var layer3 = map.createLayer("Tile Layer 3", [tileset1, tileset2]);
-    var layer4 = map.createLayer("Tile Layer 4", [tileset1, tileset2]);
-    var layer5 = map.createLayer("Tile Layer 5", [tileset1, tileset2]);
+    let layer1 = map.createLayer("Tile Layer 1", [tileset1, tileset2]);
+    let layer2 = map.createLayer("Tile Layer 2", [tileset1, tileset2]);
+    let layer3 = map.createLayer("Tile Layer 3", [tileset1, tileset2]);
+    let layer4 = map.createLayer("Tile Layer 4", [tileset1, tileset2]);
+    let layer5 = map.createLayer("Tile Layer 5", [tileset1, tileset2]);
 
-    var cursors = this.input.keyboard.createCursorKeys();
+    let cursors = this.input.keyboard.createCursorKeys();
 
     this.cameras.main.setZoom(1);
     this.cameras.main.setScroll(-930, -150);
 
-    var controlConfig = {
+    let controlConfig = {
       camera: this.cameras.main,
       left: cursors.left,
       right: cursors.right,
