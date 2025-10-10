@@ -6,7 +6,7 @@ export class Map extends Scene {
     super("Map");
   }
 
-  controls;
+  controls: any;
 
   preload() {
     this.load.image("tiles", test.OutsideTileset.src);
