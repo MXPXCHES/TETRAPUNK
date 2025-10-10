@@ -33,7 +33,7 @@ export class Map extends Scene {
     this.cameras.main.setZoom(1);
     this.cameras.main.setScroll(-930, -150);
 
-    let controlConfig = {
+    const controlConfig = {
       camera: this.cameras.main,
       left: cursors.left,
       right: cursors.right,
